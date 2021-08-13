@@ -1,0 +1,20 @@
+#highlight{
+    color :black;
+    background-color: none;
+    border-width: 2px;
+    border-style: groove ;
+    width: 50%;
+    height: 110px;
+    
+    
+}
+#hightlight2{
+    text-align: center;
+    text-decoration-style: solid;
+}
+
+body{
+    
+    background-image: url(https://wallpapercave.com/wp/wp2561075.jpg) ;
+    background-size: cover;
+}
